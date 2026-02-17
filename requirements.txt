@@ -1,0 +1,8 @@
+sentence-transformers
+chromadb
+fastapi
+uvicorn
+pypdf
+tqdm
+numpy
+requests
